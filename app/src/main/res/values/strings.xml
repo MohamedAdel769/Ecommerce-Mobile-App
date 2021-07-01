@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ecommerce</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="new_user_register_now">New User? Register Now.</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="tab_text_1">Products</string>
+    <string name="tab_text_2">Search</string>
+    <string name="tab_text_3">Cart</string>
+    <string-array name="categories">
+        <item>All</item>
+        <item>Computers</item>
+        <item>Camera</item>
+        <item>Mobile</item>
+        <item>Kitchen</item>
+    </string-array>
+</resources>
