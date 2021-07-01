@@ -9,6 +9,10 @@ Online shopping app for Mobile Computing courseware.
 
 # Screen Shots
 ![alt text](https://github.com/MohamedAdel769/Ecommerce-Mobile-App/blob/main/screenShots/Screenshot%202021-07-01%20184042.png?raw=true)
+br
 ![alt text](https://github.com/MohamedAdel769/Ecommerce-Mobile-App/blob/main/screenShots/Screenshot%202021-07-01%20184107.png?raw=true)
+br
 ![alt text](https://github.com/MohamedAdel769/Ecommerce-Mobile-App/blob/main/screenShots/Screenshot%202021-07-01%20184303.png?raw=true)
+br
 ![alt text](https://github.com/MohamedAdel769/Ecommerce-Mobile-App/blob/main/screenShots/Screenshot%202021-07-01%20184318.png?raw=true)
+br
